@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Servlet and Cookies/Session Example</title>
+</head>
+<body>
+    <h1>Welcome to our Web Application</h1>
+    <form action="ServletExample" method="POST">
+        <label for="username">Enter your name:</label>
+        <input type="text" id="username" name="username" required>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
